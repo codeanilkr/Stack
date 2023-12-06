@@ -19,6 +19,6 @@ while(ll.hasNext()){
 }
 System.out.println(list);
 
-
+sc.close();
     }
 }
